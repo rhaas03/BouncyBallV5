@@ -61,7 +61,7 @@ public class BouncyBallV5 extends JPanel implements ActionListener, MouseMotionL
 	public static final Color BG_COLOR = new Color(220, 220, 220);
 
 	//Version Number
-	public static final String VERSION = "5.0.0A1";
+	public static final String VERSION = "5.0.0A2";
 
 	//Screen ints (to set and change screens)
 	public static final int GAME_MENU = 1;
